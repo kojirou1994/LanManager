@@ -14,6 +14,9 @@
             <a href="http://<?php echo $_SERVER["SERVER_ADDR"];?>:7601" target="_blank">Aria2 Manager</a>
         </li>
         <li>
+            <a href="http://<?php echo $_SERVER["SERVER_ADDR"];?>:9091" target="_blank">Local Transmission</a>
+        </li>
+        <li>
             <a href="http://163.44.151.134:9091" target="_blank">VPS Transmission</a>
         </li>
         <li>
